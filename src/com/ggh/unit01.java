@@ -146,6 +146,7 @@ public class unit01 {
                 System.out.println();
             }
             System.out.println();
+            System.out.println("测试");
 
         }
         arr=null;
